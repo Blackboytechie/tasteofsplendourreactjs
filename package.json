@@ -1,6 +1,7 @@
 {
   "name": "landingpage",
   "private": false,
+  "homepage": "https://github.com/Blackboytechie/tasteofsplendourreactjs/"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
