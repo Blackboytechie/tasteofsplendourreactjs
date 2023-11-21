@@ -12,7 +12,7 @@ import Menupage from "./pages/Menupage";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/tasteofsplendourreactjs">
         <div className="App">
           <Header />
           <Routes>
